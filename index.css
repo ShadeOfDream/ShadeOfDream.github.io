@@ -1,0 +1,39 @@
+body {
+  font-size: 125%;
+  line-height: 1.5;
+}
+
+nav,
+nav ul {
+  display: flex;
+  flex-flow: row wrap;
+}
+
+nav {
+  background: #2b2f2c;
+  color: #fff;
+  padding: 1rem;
+  position: sticky;
+  top: 0;
+}
+
+nav ul {
+  list-style: none;
+  margin: 0;
+}
+
+nav li {
+  margin-right: 25px;
+}
+
+nav li a {
+  color: yelllow;
+}
+
+section {
+  padding: 1rem 3rem;
+}
+
+section:target {
+  background: lightyellow;
+}
