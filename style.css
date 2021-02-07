@@ -20,7 +20,7 @@ nav {
 nav ul {
   list-style: none;
   margin: 0;
-  text-decoration: none;
+  
 }
 
 nav li {
@@ -29,6 +29,7 @@ nav li {
 
 nav li a {
   color: yelllow;
+  text-decoration: none;
 }
 
 section {
