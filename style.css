@@ -31,7 +31,9 @@ nav li a {
   color: yelllow;
   text-decoration: none;
 }
-
+#section-1 {
+  margin: 0 1.5%;
+}
 section {
   padding: 1rem 3rem;
 }
